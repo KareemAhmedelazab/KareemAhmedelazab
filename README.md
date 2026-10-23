@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kareem%20Ahmed%20Moniem&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20iOS%20Developer%20%7C%20Cairo%2C%20Egypt&descSize=18&descAlignY=60" alt="Kareem Ahmed Moniem banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Kareem%20El-azab%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20iOS%20Developer%20%7C%20Cairo%2C%20Egypt&descSize=18&descAlignY=60" alt="Kareem El-azab banner" width="100%"/>
 
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=147EFB&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Kareem+%F0%9F%91%8B;Junior+iOS+Developer;Swift+%7C+Xcode+%7C+Git;Passionate+about+problem+solving;Always+learning+and+growing" alt="Typing animation" />
